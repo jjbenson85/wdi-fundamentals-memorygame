@@ -42,6 +42,10 @@ main {
 
 }
 
+span{
+	font-size: 24px;
+}
+
 img {
 	margin: 40px 8px;
 }
@@ -69,12 +73,20 @@ h2 {
 
 }
 
+hr.dashed{
+  border-top: 1px dashed black;
+}
 
 
-p {
+
+p,button {
 	font-family: "Droid Serif", serif;
 	line-height: 26px;
 	font-size: 18px;
+
+}
+
+button {
 
 }
 
